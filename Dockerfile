@@ -11,5 +11,5 @@ FROM node:18
 WORKDIR /app
 COPY --from=builder /app ./
 
-EXPOSE 3000
+EXPOSE 4001
 CMD ["npm", "run", "start"]
