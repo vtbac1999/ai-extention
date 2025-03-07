@@ -1,0 +1,303 @@
+{
+  "ChatAI": {
+    "Common": {
+      "Slogan": "Let us help you find information quickly and accurately",
+      "LocaleSwitcher": {
+        "Locale": "{locale, select, vi {Vietnamese} en {English} other {Unknown}}"
+      },
+      "Breadcrumb": {
+        "Home": "Home"
+      },
+      "Texts": {
+        "Category": "Category",
+        "Categories": "Categories",
+        "EnterKeywordsSearch": "Enter keywords to search",
+        "SeeMore": "See more"
+      },
+      "ModalError": {
+        "Title": "Failed",
+        "Close": "Close"
+      },
+      "ModalSuccess": {
+        "Title": "Success",
+        "Close": "Close"
+      }
+    },
+    "Page": {
+      "Home": {
+        "Title": "Home",
+        "Description": "Welcome to the home page",
+        "Greeting": "Hello, {name}!",
+        "Information": "Information",
+        "MemberType": "Member type",
+        "ExploreMore": "Explore more"
+      },
+      "Topic": {
+        "Title": "Topic",
+        "Description": "List of topics"
+      },
+      "Category": {
+        "Title": "Lorem ipsum dolor sit amet",
+        "Description": "List of categories",
+        "Search": "Search",
+        "Branch": "Branch",
+        "Restaurant": "Restaurant",
+        "SeeMore": "See more"
+      },
+      "ChatDetail": {
+        "Title": "Chat detail",
+        "Description": "Chat detail",
+        "BackTo": "Back to",
+        "AddNewChat": "Add new chat",
+        "Rename": "Rename",
+        "Delete": "Delete",
+        "Modal": {
+          "Title": "Delete chat",
+          "Content": "Are you sure you want to delete this chat? This action cannot be undone.",
+          "ButtonCancel": "Cancel",
+          "ButtonDelete": "Delete"
+        },
+        "Message": {
+          "DeleteChat": "Are you sure you want to delete this chat?",
+          "DeleteSuccess": "Delete successfully",
+          "DeleteError": "Delete failed"
+        },
+        "InfoCategory": {
+          "Description": "Description"
+        },
+        "AreaChat": {
+          "BlankScreen": "What can I help with?",
+          "Placeholder": "Chat with ChatAI...",
+          "ButtonSend": "Send",
+          "RemoveImage": "Remove image",
+          "OutPackage": "Your package is out of turn"
+        }
+      },
+      "Login": {
+        "Slogan": "Investment in knowledge always pays the best interest.",
+        "Title": "Login",
+        "LoginWithGoogle": "Login with Google",
+        "LoginWithFacebook": "Login with Facebook",
+        "LoginWithEmail": "Login with Email",
+        "Form": {
+          "Name": {
+            "Email":"Email",
+            "Password": "Password"
+          },
+          "Email": "Enter your email",
+          "Password": "Enter your password",
+          "ForgotPassword": "Forgot password?",
+          "ButtonSubmit": "Login",
+          "Message": {
+            "EmailRequired": "Email is required",
+            "EmailInvalid": "Email is invalid",
+            "PasswordRequired": "Password is required",
+            "PasswordInvalid": "Password must be at least 6 characters",
+            "Success": "Login successfully",
+            "Error": "Login failed"
+          },
+          "Footer": {
+            "Or":"Or",
+            "Register": "Don't have an account?",
+            "RegisterNow": "Register now"
+          }
+        }
+      },
+      "Register": {
+        "Title": "Register",
+        "RegisterWithGoogle": "Register with Google",
+        "RegisterWithFacebook": "Register with Facebook",
+        "RegisterWithEmail": "Register with Email",
+        "Form": {
+          "Email": "Enter your email",
+          "Password": "Enter your password",
+          "ConfirmPassword": "Confirm your password",
+          "ButtonSubmit": "Register",
+          "Message": {
+            "EmailRequired": "Email is required",
+            "EmailInvalid": "Email is invalid",
+            "PasswordRequired": "Password is required",
+            "ConfirmPasswordRequired": "Confirm password is required",
+            "PasswordNotMatch": "Password does not match",
+            "Success": "Register successfully",
+            "Error": "Register failed"
+          },
+          "Footer": {
+            "Login": "Already have an account?",
+            "LoginNow": "Login now"
+          }
+        }
+      },
+      "ForgotPassword": {
+        "Title": "Forgot password",
+        "Form": {
+          "Email": "Enter your email",
+          "ButtonSubmit": "Send email",
+          "Message": {
+            "EmailRequired": "Email is required",
+            "EmailInvalid": "Email is invalid",
+            "Success": "Send email successfully",
+            "Error": "Send email failed"
+          },
+          "Footer": {
+            "Login": "Remember your password?",
+            "LoginNow": "Login now"
+          }
+        }
+      }
+    },
+    "Navigations": {
+      "Dashboard": "Dashboard",
+      "Restaurant": "Restaurant",
+      "Teacher": "Teacher",
+      "Hotel": "Hotel",
+      "Cafe": "Cafe",
+      "CarShowroom": "Car Showroom",
+      "Student": "Student",
+      "Architecture": "Architecture",
+      "RealEstate": "Real Estate",
+      "Marketing": "Marketing",
+      "SeeMore": "See more",
+      "Settings": "Setting"
+    },
+    "UserProfile": {
+      "title": "Personal information",
+      "avatarAlt": "Avatar",
+      "uploadAvatar": "Upload avatar",
+      "removeAvatar": "Remove avatar",
+      "Profile": "Profile",
+      "ChangePassword": "Change password",
+      "Edit": "Edit",
+      "Setting": "Setting",
+      "Logout": "Logout",
+      "Login": "Login",
+      "avatar": "Avatar",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "phoneNumber": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "updateProfile": "Update profile",
+      "updating": "Updating...",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "updateSuccess": "Update successfully",
+      "updateError": "Update failed",
+      "uploadAvatarSuccess": "Upload avatar successfully",
+      "uploadAvatarError": "Upload avatar failed",
+      "titleChangePassword": "Change password",
+      "oldPassword": "Old password",
+      "oldPasswordPlaceholder": "Enter your old password",
+      "newPassword": "New password",
+      "newPasswordPlaceholder": "Enter your new password",
+      "confirmPassword": "Confirm password",
+      "confirmPasswordPlaceholder": "Enter your confirm password",
+      "save": "Save",
+      "changePasswordSuccess": "Change password successfully",
+      "changePasswordFailed": "Change password failed",
+      "uploadImage": "Upload image",
+      "removeImage": "Remove image",
+      "editPersonalProfile": "Edit personal profile",
+      "editProfile": "Edit profile",
+      "upgrade": "Upgrade",
+      "orderHistory": "Order history",
+      "changePassword": "Change password",
+      "uploadSuccess": "Upload successfully"
+    },
+    "Upgrade": {
+      "upgrade": "Upgrade",
+      "title":"FEATURES INCLUDED",
+      "description": "Hit/Account"
+    },
+    "SurveyForm": {
+      "title": "Survey Form",
+      "formInfo": "General information",
+      "helpText": "Filling out the survey completely increases the accuracy of responses and personalization for the user.",
+      "companySize": "Company size",
+      "validateCompanySize": "Please select company size",
+      "micro": "Micro enterprise (Under 5 employees)",
+      "small": "Small enterprise (From 5 to 10 employees)",
+      "medium": "Medium enterprise (From 11 to 50 employees)",
+      "large": "Large enterprise (From 51 to 200 employees)",
+      "veryLarge": "Very large enterprise (Over 200 employees)",
+
+      "monthlyRevenue": "Average monthly revenue",
+      "validateMonthlyRevenue": "Please select average revenue",
+      "under50": "Under 50 million VND",
+      "50to100": "50 million - 100 million VND",
+      "100to250": "100 million - 250 million VND",
+      "250to500": "250 million - 500 million VND",
+      "500to1B": "500 million - 1 billion VND",
+      "above1B": "Above 1 billion VND",
+
+      "companyAddress": "Company address",
+      "validateCompanyAddress": "Please enter company address",
+
+      "companyVision": "Company vision",
+      "validateCompanyVision": "Please enter company vision",
+
+      "companyName": "Company name",
+      "validateCompanyName": "Please enter company name",
+
+      "competitiveAdvantage": "Company competitive advantage",
+      "validateCompetitiveAdvantage": "Please enter company competitive advantage",
+
+      "productDescription": "Detailed description of company's product/industry",
+      "validateProductDescription": "Please enter product/industry description",
+
+      "nextYearPlan": "Next Year Plan",
+      "validateNextYearPlan": "Please enter next year plan",
+
+      "fullName": "Full Name",
+      "validateFullName": "Please enter full name",
+
+      "Email": "Email",
+      "validateEmail": "Please enter email",
+      "invalidEmail": "Invalid email",
+
+      "phoneNumber": "Phone Number",
+      "validatePhoneNumber": "Please enter phone number",
+      "validateNumber": "Please enter number only",
+
+      "thanks": "Thank you for taking the survey !",
+      "failded": "Please try again",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "edit": "Update"
+    },
+    "SurveyData": {
+     "Title": "Survey Data",
+      "CompanyProduct":"Main product",
+      "CompanyStrength": "Company size",
+      "CompanyNextYearPlan": "Next year plan",
+      "CompanyAddress": "Company address",
+      "More": "See more",
+      "Less": "Hide less",
+      "Noti": "There is currently no information about your business. Please provide more information",
+      "Here": "here",
+      "Questions": "Questions",
+      "OutPackage": "Your package is out of turn"
+    },
+    "Subscription": {
+      "credit_available": "Credit availability",
+      "used": "Used",
+      "remaining": "Remaining",
+      "explore_more": "Explore more"
+    },
+    "Order": {
+      "orderCode": "Order Code",
+      "orderDetail": "Order Detail",
+      "orderDate": "Order Date",
+      "status": "Status",
+      "transactionType": "Transaction type",
+      "total": "Total",
+      "paymentMethod": "Payment method",
+      "plan":"Plan",
+      "expiry": "Expiry",
+      "orderHistory:": "Order History"
+  }
+  }
+}

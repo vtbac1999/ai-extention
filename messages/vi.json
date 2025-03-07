@@ -1,0 +1,302 @@
+{
+  "ChatAI": {
+    "Common": {
+        "Slogan": "Hãy để chúng tôi giúp bạn tìm kiếm thông tin một cách nhanh chóng và chính xác nhất",
+        "LocaleSwitcher": {
+          "Locale": "{locale, select, vi {Việt Nam} en {Anh} other {Không xác định}}"
+        },
+        "Breadcrumb": {
+          "Home": "Trang chủ"
+        },
+        "Texts": {
+          "Category": "Danh mục",
+          "Categories": "Các danh mục",
+          "EnterKeywordsSearch": "Nhập từ khóa để tìm kiếm",
+          "SeeMore": "Xem Thêm"
+        },
+        "ModalError": {
+          "Title": "Thất bại",
+          "Close": "Đóng"
+        },
+        "ModalSuccess": {
+          "Title": "Thành công",
+          "Close": "Đóng"
+        }
+    },
+    "Page": {
+      "Home": {
+        "Title": "Trang chủ",
+        "Description": "Chào mừng đến với trang chủ",
+        "Greeting": "Xin chào, {name}!",
+        "Information": "Thông tin",
+        "MemberType": "Loại thành viên",
+        "ExploreMore": "Khám phá thêm"
+      },
+      "Topic": {
+        "Title": "Chủ đề",
+        "Description": "Danh sách các chủ đề",
+         "SeeMore": "Xem Thêm"
+      },
+      "Category": {
+        "Title": "Lorem ipsum dolor sit amet",
+        "Description": "Danh sách các danh mục",
+        "Search": "Tìm kiếm",
+        "Branch": "Lĩnh vực",
+        "Restaurant": "Nhà hàng",
+        "SeeMore": "Xem Thêm"
+      },
+      "ChatDetail": {
+        "Title": "Chi tiết cuộc trò chuyện",
+        "Description": "Chi tiết cuộc trò chuyện",
+        "BackTo": "Quay lại",
+        "AddNewChat": "Tạo chat mới",
+        "Rename": "Đổi tên",
+        "Delete": "Xóa",
+        "Modal": {
+          "Title": "Xóa đoạn trò chuyện",
+          "Content": "Bạn có chắc chắn muốn xóa cuộc trò chuyện này không? Hành động này không thể hoàn tác.",
+          "ButtonCancel": "Hủy",
+          "ButtonDelete": "Xóa"
+        },
+        "Message": {
+          "DeleteChat": "Bạn có chắc chắn muốn xóa chat này không?",
+          "DeleteSuccess": "Xóa thành công",
+          "DeleteError": "Xóa thất bại"
+        },
+        "InfoCategory": {
+          "Description": "Mô tả"
+        },
+        "AreaChat": {
+          "BlankScreen":"Tôi có thể giúp gì?",
+          "Placeholder": "Nhắn tin với ChatAI...",
+          "ButtonSend": "Gửi",
+          "RemoveImage": "Xóa ảnh",
+          "OutPackage": "Gói của bạn đã hết lượt"
+        }
+      },
+      "Login": {
+        "Slogan": "Đầu tư vào kiến thức luôn mang lại lợi nhuận cao nhất.",
+        "Title": "Đăng nhập",
+        "LoginWithGoogle": "Đăng nhập với Google",
+        "LoginWithFacebook": "Đăng nhập với Facebook",
+        "LoginWithEmail": "Đăng nhập với Email",
+        "Form": {
+          "Name": {
+            "Email":"Email",
+            "Password": "Mật khẩu"
+          },
+          "Email": "Nhập email của bạn",
+          "Password": "Nhập mật khẩu của bạn",
+          "ForgotPassword": "Quên mật khẩu?",
+          "ButtonSubmit": "Đăng nhập",
+          "Message": {
+            "EmailRequired": "Email là bắt buộc",
+            "EmailInvalid": "Email không hợp lệ",
+            "PasswordRequired": "Mật khẩu là bắt buộc",
+            "PasswordInvalid": "Mật khẩu phải có ít nhất 6 ký tự",
+            "Success": "Đăng nhập thành công",
+            "Error": "Đăng nhập thất bại"
+          },
+          "Footer": {
+            "Or": "Hoặc",
+            "Register": "Chưa có tài khoản?",
+            "RegisterNow": "Đăng ký ngay"
+          }
+        }
+      },
+      "Register": {
+        "Title": "Đăng ký",
+        "RegisterWithGoogle": "Đăng ký với Google",
+        "RegisterWithFacebook": "Đăng ký với Facebook",
+        "RegisterWithEmail": "Đăng ký với Email",
+        "Form": {
+          "Email": "Nhập email của bạn",
+          "Password": "Nhập mật khẩu của bạn",
+          "ConfirmPassword": "Xác nhận mật khẩu của bạn",
+          "ButtonSubmit": "Đăng ký",
+          "Message": {
+            "EmailRequired": "Email là bắt buộc",
+            "EmailInvalid": "Email không hợp lệ",
+            "PasswordRequired": "Mật khẩu là bắt buộc",
+            "ConfirmPasswordRequired": "Xác nhận mật khẩu là bắt buộc",
+            "PasswordNotMatch": "Mật khẩu không khớp",
+            "Success": "Đăng ký thành công",
+            "Error": "Đăng ký thất bại"
+          },
+          "Footer": {
+            "Register": "Đã có tài khoản?",
+            "RegisterNow": "Đăng nhập ngay"
+          }
+        }
+      },
+      "ForgotPassword": {
+        "Title": "Quên mật khẩu",
+        "Form": {
+          "Email": "Nhập email của bạn",
+          "ButtonSubmit": "Gửi",
+          "Message": {
+            "EmailRequired": "Email là bắt buộc",
+            "EmailInvalid": "Email không hợp lệ",
+            "Success": "Gửi thành công",
+            "Error": "Gửi thất bại"
+          }
+        }
+      }
+    },
+    "Navigations": {
+      "Dashboard": "Trang chủ",
+      "Restaurant": "Nhà hàng",
+      "Teacher": "Giáo viên",
+      "Hotel":"Khách sạn",
+      "CarShowroom": "Showroom ô tô",
+      "RealEstate": "Bất động sản",
+      "Student": "Học sinh",
+      "Cafe": "Cafe",
+      "Architecture": "Kiến trúc",
+      "Marketing": "Marketing",
+      "SeeMore": "Xem thêm",
+      "Settings": "Cài đặt"
+    },
+    "UserProfile": {
+      "title": "Thông tin cá nhân",
+      "avatarAlt": "Ảnh đại diện",
+      "uploadAvatar": "Tải ảnh lên",
+      "removeAvatar": "Xóa ảnh",
+      "Profile": "Hồ sơ",
+      "ChangePassword": "Đổi mật khẩu",
+      "Edit": "Chỉnh sửa",
+      "Setting": "Cài đặt",
+      "Logout": "Đăng Xuất",
+      "Login": "Đăng nhập",
+      "avatar": "Ảnh đại diện",
+      "firstName": "Họ",
+      "firstNamePlaceholder": "Nhập họ của bạn",
+      "lastName": "Tên",
+      "lastNamePlaceholder": "Nhập tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập email của bạn",
+      "phoneNumber": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại của bạn",
+      "updateProfile": "Cập nhật thông tin",
+      "updating": "Đang cập nhật...",
+      "edit": "Sửa",
+      "cancel": "Hủy",
+      "updateSuccess": "Cập nhật thông tin thành công",
+      "updateError": "Cập nhật thông tin thất bại",
+      "uploadAvatarSuccess": "Cập nhật ảnh đại diện thành công",
+      "uploadAvatarError": "Cập nhật ảnh đại diện thất bại",
+      "titleChangePassword": "Đổi mật khẩu",
+      "oldPassword": "Mật khẩu cũ",
+      "oldPasswordPlaceholder": "Nhập mật khẩu cũ của bạn",
+      "newPassword": "Mật khẩu mới",
+      "newPasswordPlaceholder": "Nhập mật khẩu mới của bạn",
+      "confirmPassword": "Xác nhận mật khẩu",
+      "confirmPasswordPlaceholder": "Nhập lại mật khẩu mới của bạn",
+      "save": "Lưu",
+      "changePasswordSuccess": "Đổi mật khẩu thành công",
+      "changePasswordFailed": "Đổi mật khẩu thất bại",
+      "uploadImage": "Tải hình",
+      "removeImage": "Xoá hình",
+      "editPersonalProfile": "Chỉnh sửa hồ sơ cá nhân",
+      "editProfile": "Chỉnh sửa hồ sơ",
+      "upgrade": "Nâng cấp",
+      "orderHistory": "Lịch sử đơn hàng",
+      "changePassword": "Đổi mật khẩu",
+      "uploadSuccess": "Tải ảnh lên thành công"
+    },
+    "Upgrade": {
+      "upgrade": "Nâng cấp",
+      "title":"BAO GỒM CÁC TÍNH NĂNG",
+      "description": "Lượt/Tài khoản"
+    },
+    "SurveyForm": {
+      "title": "Biểu mẫu khảo sát",
+      "formInfo": "Biểu mẫu khảo sát",
+      "helpText": "Việc điền đầy đủ thông tin khảo sát giúp gia tăng độ chính xác của các câu trả lời và cá nhân hoá theo người dùng",
+      "companySize": "Quy mô công ty",
+      "validateCompanySize": "Vui lòng chọn quy mô công ty",
+      "micro": "Doanh nghiệp siêu nhỏ (Dưới 5 nhân viên)",
+      "small": "Doanh nghiệp nhỏ (Từ 5 đến 10 nhân viên)",
+      "medium": "Doanh nghiệp vừa (Từ 11 đến 50 nhân viên)",
+      "large": "Doanh nghiệp lớn (Từ 51 đến 200 nhân viên)",
+      "veryLarge": "Doanh nghiệp rất lớn (Trên 200 nhân viên)",
+
+      "monthlyRevenue": "Doanh thu trung bình hàng tháng",
+      "validateMonthlyRevenue": "Vui lòng chọn doanh thu trung bình",
+      "under50": "Dưới 50 triệu VND",
+      "50to100": "50 triệu - 100 triệu VND",
+      "100to250": "100 triệu - 250 triệu VND",
+      "250to500": "250 triệu - 500 triệu VND",
+      "500to1B": "500 triệu - 1 tỷ VND",
+      "above1B": "Trên 1 tỷ VND",
+
+      "companyAddress": "Địa chỉ công ty",
+      "validateCompanyAddress": "Vui lòng nhập địa chỉ công ty",
+      
+      "companyVision": "Tầm nhìn công ty",
+      "validateCompanyVision": "Vui lòng nhập tầm nhìn công ty",
+
+      
+      "companyName": "Tên công ty",
+      "validateCompanyName": "Vui lòng nhập tên công ty",
+
+      "competitiveAdvantage": "Lợi thế cạnh tranh của công ty",
+      "validateCompetitiveAdvantage": "Vui lòng nhập lợi thế cạnh tranh của công ty",
+      
+      "productDescription": "Mô tả chi tiết sản phẩm/ngành nghề của công ty",
+      "validateProductDescription": "Vui lòng nhập mô tả sản phẩm/ngành nghề",
+
+      "nextYearPlan": "Kế hoạch năm tới",
+      "validateNextYearPlan": "Vui lòng nhập kế hoạch năm tới",
+
+      "fullName": "Họ tên",
+      "validateFullName": "Vui lòng nhập họ tên",
+
+      "Email": "Email",
+      "validateEmail": "Vui lòng nhập email",
+      "invalidEmail": "Email không hợp lệ",
+
+      "phoneNumber": "Số điện thoại",
+      "validatePhoneNumber": "Vui lòng nhập số điện thoại",
+      "validateNumber": "Vui lòng chỉ nhập số",
+
+      "thanks": "Cảm ơn bạn đã tham gia khảo sát!",
+      "failded": "Vui lòng thử lại",
+      "cancel": "Đóng",
+      "submit": "Gửi",
+      "edit": "Cập nhật"
+
+    },
+    "SurveyData": {
+      "Title": "Thông tin doanh nghiệp",
+      "CompanyProduct":"Sản phẩm chính",
+      "CompanyStrength": "Quy mô công ty",
+      "CompanyNextYearPlan": "Doanh thu trung bình hàng tháng",
+      "CompanyAddress": "Địa chỉ công ty",
+      "More": "Xem thêm",
+      "Less": "Ẩn bớt",
+      "Noti": "Hiện chưa có thông tin doanh nghiệp của bạn. Hãy cung cấp thêm thông tin tại",
+      "Here": "đây",
+      "Questions": "Câu hỏi",
+      "OutPackage": "Gói của bạn đã hết lượt"
+    },
+    "Subscription": {
+      "credit_available": "Số credit khả dụng",
+      "used": "Đã dùng",
+      "remaining": "Còn lại",
+      "explore_more": "Khám phá thêm"
+    },
+    "Order": {
+      "orderCode": "Mã đơn hàng",
+      "orderDetail": "Chi tiết đơn hàng",
+      "orderDate": "Ngày mua",
+      "status": "Trạng thái",
+      "transactionType": "Loại giao dịch",
+      "total": "Tổng tiền",
+      "paymentMethod": "Hình thức thanh toán",
+      "plan":"Gói mua",
+      "expiry": "Hạn sử dụng",
+      "orderHistory":"Lịch sử đơn hàng"
+  }
+}
+}
